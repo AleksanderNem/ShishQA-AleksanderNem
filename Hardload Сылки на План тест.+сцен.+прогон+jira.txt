@@ -1,0 +1,3 @@
+План тестирования и тест. прогон - 
+Тест. сценарии - 
+Jira - http://89.223.126.182:8080/issues?q=project:%20%7Bhardload%7D%20State:%20Unresolved
